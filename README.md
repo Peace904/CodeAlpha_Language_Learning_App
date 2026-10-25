@@ -39,7 +39,7 @@ This project was developed as part of my **CodeAlpha internship** to strengthen 
 
 **Blessing Sia Kebbie**
 
-GitHub: [Peace904](https://github.com/Peace904)
+GitHub Repository: Lingo Work — Language Learning App
 
 ---
 
